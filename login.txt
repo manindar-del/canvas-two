@@ -1,0 +1,10 @@
+
+aws login :
+user:accounts@canvasvacations.net
+password Mytrip2018@
+
+--------------------------------------------------------------------------------
+
+ssh -i "canvasvacations.pem" ec2-user@ec2-54-201-167-230.us-west-2.compute.amazonaws.com
+
+--------------------------------------------------------------------------------

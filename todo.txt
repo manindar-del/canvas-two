@@ -1,0 +1,74 @@
+1.Hotels to be Removed - After removing the hotels during the booking process there
+should be be a single runtime error during the booking process. - x
+
+2. Activities Section ( Country and City) - x
+Transfer Section ( Type,Country & City ) - x
+
+Should be dynamic where we can add and remove the SubType as per our requirement.
+
+3.Removal of " Pay Later Option" - x
+
+4.Wallet system - AGENT/ADMIN can add money on the wallet - x
+
+5.For transfer, the cancellation will be added. Before 7 days no cancellation will be done . - x
+
+- Once the booking is initiated the agent must see the cancellation policy during the booking . - x
+
+Example If an Agent is booking a Tour for 7th Oct 2019,during booking Agent must see . - x
+
+"No charge if cancelled before 1st Oct 2019" - x
+
+Important Note :
+Agent should get an email on 6th day that from tomorrow the booking will be non refundable and agent should have an option from MyBookings Section to Cancel and once Cancellation is done agent should get an email confirmation of Cancellation.
+
+6.View Transfer document will be dynamic and can be uploaded by admin ( Can be in the form of Microsoft Excel,Word or PDF ) - x
+
+7.Hotel contract --Document will be dynamic and can be downloadable ( Can be in the form of Microsoft Excel,Word or PDF ) - x
+
+8.If the current converter is placed what will be the cases under below circumstance : ---
+
+1. Will the Invoice be in INR or any other currency ? INR
+
+9.SSL security is to be updated.
+
+Above all we shall check all details and go through every test after you handover from your end for 2-3 days and then any modification as per new and old contract will be done and any issues to be rectified by 2 working days.
+
+The Complete testing and handover to be done by 15th.
+
+Kindly acknowledge that all complaints will be met as per old and new contract/commitment with Zero Runtime error as there is no API involved in this.
+
+If you need more time please share the timeline you need for completion and also kindly share us live update on daily basis.
+
+Now after removing the Hotel Section the Remaining Sections are Activities and Transfers.
+
+1. Remove the Option Accomodation and all API related to Accommodation from the
+website .As we are getting run time error in transfers and sightseeing due to API issues. - x
+
+2. IMAGES are not coming with transfers and sightseeing while searching . - x
+
+3. Still now we are getting run time error.  - x
+
+4.Payment gateway integration details are below ,once done let us know will do a
+final test and close the case. - x
+Instamojo ID :
+accounts@canvasvacations.net
+Mytrip2015@
+
+Also please check email
+
+--------------------------------------------------------------------------------
+
+http://localhost/internet-haat/public/search?
+
+--------------------------------------------------------------------------------
+
+name format - is in reverse order
+https://prnt.sc/pzeoz7
+https://prnt.sc/pzep18
+
+--------------------------------------------------------------------------------
+
+last column should be infant
+https://prnt.sc/pzf5c6
+
+--------------------------------------------------------------------------------
